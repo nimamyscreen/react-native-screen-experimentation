@@ -10,7 +10,6 @@
         "test": "jest"
     },
     "dependencies": {
-        "electron": "^1.8.1",
         "lottie-react-native": "2.2.7",
         "merge": "^1.2.0",
         "prop-types": "^15.6.0",
